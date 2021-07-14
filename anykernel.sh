@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T_FoR_RMX2020/RMX2027
+kernel.string=N.E.O.L.I.T_FoR_RMX2193
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rmx2020
-device.name2=RMX2020
-device.name3=RMX2027
+device.name1=RMX2193
+device.name2=RMX2191
+device.name3=RMX2190
 device.name4=ZIPKUS
 device.name5=zipkus
 supported.versions=
