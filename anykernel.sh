@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T_FoR_RMX2020/RMX2027
+kernel.string=N.E.O.L.I.T_FoR_RMX2151/RMX2161
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rmx2020
-device.name2=RMX2020
-device.name3=RMX2027
-device.name4=ZIPKUS
-device.name5=zipkus
+device.name1=RMX2151
+device.name2=rmx2151
+device.name3=rmx2161
+device.name4=RMX2161
+device.name5=RMX2001
 supported.versions=
 supported.patchlevels=
 '; } # end properties
