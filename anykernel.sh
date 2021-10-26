@@ -11,10 +11,10 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX2001
-device.name2=RMX2002
-device.name3=RMX200x
-device.name4=WASABI
-device.name5=wasabi
+device.name2=RMX2151
+device.name3=rmx2151
+device.name4=rmx2001
+device.name5=RMX2161
 supported.versions=
 supported.patchlevels=
 '; } # end properties
