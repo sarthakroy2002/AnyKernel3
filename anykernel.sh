@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T._FOR_RMX2001/RMX2002
+kernel.string=N.E.O.L.I.T._FOR_wasabi
 do.devicecheck=1
 do.modules=0
 do.systemless=1
