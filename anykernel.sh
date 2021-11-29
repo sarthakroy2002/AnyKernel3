@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T._FOR_wasabi
+kernel.string=N.E.O.L.I.T._FOR_RM6785
 do.devicecheck=1
 do.modules=0
 do.systemless=1
