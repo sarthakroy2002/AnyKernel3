@@ -15,7 +15,7 @@ device.name2=RMX2020
 device.name3=RMX2027
 device.name4=ZIPKUS
 device.name5=zipkus
-supported.versions=
+supported.versions=12
 supported.patchlevels=
 '; } # end properties
 
