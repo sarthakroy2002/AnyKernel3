@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T._FOR_RM6785
+kernel.string=neOliT for Realme Wasabi(RM6785)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,9 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX2001
 device.name2=RMX2151
-device.name3=rmx2151
-device.name4=RM6785
-device.name5=RMX2161
+device.name3=RM6785
+device.name4=RMX2161
 supported.versions=
 supported.patchlevels=
 '; } # end properties
